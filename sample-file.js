@@ -12,3 +12,5 @@ function FindTwSum(numbers, target) {
 
   return null;
 }
+
+FindTwSum([1,3,7,9,2], 11);
